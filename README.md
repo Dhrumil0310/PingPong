@@ -27,7 +27,12 @@ Pong is a two-dimensional sports game that simulates table tennis. The player co
   <li>Complete Step 1 above</li>
   <li>Navigate to 'source' folder</li>
   <li>Open terminal in the same location</li>
-  <li>python main.py</li>
+  <li>python pong1.py</li>
 </ol>
+
+## Screenshot
+
+![picture](output/Screenshot%20(62).png)
+
 
 
